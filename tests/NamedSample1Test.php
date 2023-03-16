@@ -1,6 +1,7 @@
 <?php
-
 use PHPUnit\Framework\TestCase;
+
+// autoload namespace\class
 use Named\NamedSample1;
 
 class NamedSample1Test extends TestCase {
