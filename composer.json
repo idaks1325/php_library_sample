@@ -1,6 +1,5 @@
 {
   "name": "idaks1325/php_library_sample",
-  "type": "library",
   "description": "How to create a PHP library",
   "license": "MIT",
   "repositories": [
