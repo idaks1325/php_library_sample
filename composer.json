@@ -9,9 +9,6 @@
       "url": "https://github.com/idaks1325/php_library_sample"
     }
   ],
-  "config": {
-    "secure-http": false
-  },
   "autoload": {
     "psr-4": {
       "Named\\": "src",
