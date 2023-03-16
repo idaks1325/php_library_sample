@@ -2,7 +2,7 @@
 class NoNamedSample1 {
     public $array = [];
     public function add() {
-        $this->array[] = 'OK';
+        $this->array[] = 'NoName';
     }
 
     public function get():array {
