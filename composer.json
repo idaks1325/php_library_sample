@@ -2,16 +2,7 @@
   "name": "idaks1325/php_library_sample",
   "type": "library",
   "description": "How to create a PHP library",
-  "keywords": [],
-  "homepage": "https://github.com/idaks1325/php_library_sample",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "ryofujimoto",
-      "email": "fry0329@gmail.com",
-      "homepage": "https://github.com/idaks1325"
-    }
-  ],
   "repositories": [
     {
       "type": "git",
@@ -20,10 +11,6 @@
   ],
   "config": {
     "secure-http": false
-  },
-  "require": {
-    "php": ">=5.6",
-    "phpunit/phpunit": "^5|^6"
   },
   "autoload": {
     "psr-4": {
